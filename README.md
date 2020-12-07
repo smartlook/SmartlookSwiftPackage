@@ -1,3 +1,9 @@
 # Smartlook Swift Package
-The official Swift package for [Smartlook](https://smartlook.com) [iOS SDK](https://smartlook.github.io), a mobile analytics solution.
 
+The official Swift package for Smartlook iOS SDK, a mobile analytics solution.
+
+See also:
+- [Smartlook](https://smartlook.com)
+- [SDK Documentation](https://smartlook.github.io)
+
+- [Issue tracking](https://github.com/smartlook/smartlook-mobile-issue-tracker/issuess)
