@@ -6,4 +6,4 @@ See also:
 - [Smartlook](https://smartlook.com)
 - [SDK Documentation](https://smartlook.github.io)
 
-- [Issue tracking](https://github.com/smartlook/smartlook-mobile-issue-tracker/issuess)
+- [Issue tracking](https://github.com/smartlook/smartlook-mobile-issue-tracker/issues)
