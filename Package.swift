@@ -12,7 +12,7 @@ let package = Package(
         .library(
             name: "Smartlook",
             type: .static,
-            targets: ["Smartlook"],
+            targets: ["Smartlook"]
         ),
     ],
     dependencies: [
