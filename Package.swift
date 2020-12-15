@@ -11,16 +11,15 @@ let package = Package(
     products: [
         .library(
             name: "Smartlook",
-            targets: ["Smartlook"]
-        ),
+            targets: ["Smartlook"]),
     ],
     dependencies: [
     ],
     targets: [
         .binaryTarget(
             name: "Smartlook",
-            url: "https://sdk.smartlook.com/ios/smartlook-ios-sdk-1.7.0.3014.zip",
-            checksum: "8996be5d5401d7dad13ccbccaef2b982edcdf2d656363db555980c04c6ea5a0e"
+            url: "https://sdk.smartlook.com/ios/smartlook-ios-sdk-1.7.1.3041.zip",
+            checksum: "32e91c11784e6fba4126fb13ef35ed8446c3f65fcd32f9bfabc21bb519215d9b"
         ),
     ]
 )                                       
