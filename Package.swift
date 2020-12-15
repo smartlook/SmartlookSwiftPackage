@@ -11,7 +11,7 @@ let package = Package(
     products: [
         .library(
             name: "Smartlook",
-            type: .static,
+            type: .library,
             targets: ["Smartlook"]
         ),
     ],
