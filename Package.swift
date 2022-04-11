@@ -18,8 +18,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "Smartlook",
-            url: "https://sdk.smartlook.com/ios/smartlook-ios-sdk-1.8.7.67.zip",
-            checksum: "7ee0e8421eef4cea8b646c70d4f474d110abdef3c90b2fae7e2f1284a9f800be"
+            url: "https://sdk.smartlook.com/ios/smartlook-ios-sdk-1.8.7.68.zip",
+            checksum: "418d8245220893578bc1276e269942e812f477b6b94279eeedd0975d224307bc"
         ),
     ]
 )
